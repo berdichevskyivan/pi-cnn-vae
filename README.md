@@ -1,4 +1,4 @@
-\# Pi CNN VAE
+## Pi CNN VAE
 
 This repository contains Python scripts for exploring patterns in the seemingly random digits of pi through generative modeling. The scripts implement Generative Adversarial Networks (GANs) and Convolutional Variational Autoencoders (CVAEs) to generate images resembling sequences of pi digits.
 
